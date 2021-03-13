@@ -1,0 +1,11 @@
+{
+  "name": "chiragserver",
+  "version": "1.0.0",
+  "description": "this is chirag server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chirag",
+  "license": "ISC"
+}
